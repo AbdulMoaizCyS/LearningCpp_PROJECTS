@@ -1,0 +1,1 @@
+This repository was mainly created to show my progress in programing c++ specifically and problems solving ability in general.These codes are not perfect as I know myself but since these were made in my adolescent  years of programming, judge them leniently.
